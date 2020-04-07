@@ -43,7 +43,7 @@ def array_gray_pixels(picture):
     (width,Height)=width_Height(picture)
     for x in range(Height):
         for y in range(width):
-            l.append((mise_au_gris(y,x,picture)))
+            l.append((turn_pixel_to_gray(y,x,picture)))
     return(l)
 
 def array_coloured_pixels(picture):
@@ -60,7 +60,7 @@ def array_coloured_pixels(picture):
 def pixels(x,y,file): #(x=0 gray) or (x=1 color); (y=0 plot) or (y=1 no plot)
     picture=open(file)
     if x==0:
-        print(tableau_pixels_gris(picture))
+        print(array_gray_pixels(picture))
         if y==0:
             plot_gray(file)
         elif y!=1 :
