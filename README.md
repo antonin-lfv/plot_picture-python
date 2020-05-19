@@ -1,4 +1,4 @@
-# plot_picture-python
+# picture_manipulation_python
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f4e8ee121a0a442fbcdb44dfef2672b2)](https://app.codacy.com/manual/antoninlefevre45/plot_picture-python?utm_source=github.com&utm_medium=referral&utm_content=antonin-lfv/plot_picture-python&utm_campaign=Badge_Grade_Dashboard)
 
