@@ -4,3 +4,13 @@
 
 This is how to work with a picture with python.
 If you have any question, let me know.
+
+
+## From this 
+
+
+
+
+## To this 
+
+![54079_greyscale](https://user-images.githubusercontent.com/63207451/92335043-73b01600-f093-11ea-91fd-80e6e684a90b.png)
